@@ -1,0 +1,7 @@
+{
+  "name": "RepasoHeroku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
